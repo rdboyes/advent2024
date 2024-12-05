@@ -1,4 +1,9 @@
 [deps]
+DSP = "717857b8-e6f2-59f4-9121-6e50c889abd2"
 DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+Flatten = "4c728ea3-d9ee-5c9a-9642-b6f7d7dc04fa"
+InlineStrings = "842dd82b-1e85-43dc-bf29-5d0ee9dffc48"
+IterTools = "c8e1da08-722c-5040-9ed9-7db0dc04731e"
 TidierData = "fe2206b3-d496-4ee9-a338-6a095c4ece80"
 TidierFiles = "8ae5e7a9-bdd3-4c93-9cc3-9df4d5d947db"
+TidierStrings = "248e6834-d0f8-40ef-8fbb-8e711d883e9c"
